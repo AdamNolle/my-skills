@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design UI"
+  short_description: "Distinctive sites and apps, grounded in your taste"
+  default_prompt: "Use $design-ui to design and build a distinctive, beautifully crafted interface for my project."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,172 @@
+{
+  "bodyBackground": "rgb(17, 17, 17)",
+  "typeSamples": [
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    },
+    {
+      "color": "rgb(178, 174, 171)",
+      "font": "\"Roboto Mono\", \"Roboto Mono Fallback\", \"Roboto Mono\", monospace",
+      "letter": "-0.2688px",
+      "line": "16.128px",
+      "size": "13.44px",
+      "tag": "P",
+      "weight": "600"
+    }
+  ],
+  "url": "https://www.remyshoots.co.za/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

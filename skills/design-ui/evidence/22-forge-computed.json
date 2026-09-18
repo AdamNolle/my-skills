@@ -1,0 +1,170 @@
+{
+  "bodyBackground": "rgb(32, 32, 32)",
+  "typeSamples": [
+    {
+      "color": "rgb(250, 250, 250)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-1.68px",
+      "line": "58.8px",
+      "size": "56px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.7)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "26.35px",
+      "size": "17px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(228, 228, 228)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-1.68px",
+      "line": "58.8px",
+      "size": "56px",
+      "weight": "500"
+    },
+    {
+      "color": "rgb(214, 214, 214)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.45)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(214, 214, 214)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.45)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(214, 214, 214)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.45)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(214, 214, 214)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.45)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(228, 228, 228)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-1.68px",
+      "line": "58.8px",
+      "size": "56px",
+      "weight": "500"
+    },
+    {
+      "color": "rgb(250, 250, 250)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.62)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(250, 250, 250)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.62)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(250, 250, 250)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.62)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(250, 250, 250)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.18px",
+      "line": "27px",
+      "size": "18px",
+      "weight": "500"
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.62)",
+      "font": "Geist, -apple-system, \"system-ui\", \"SF Pro Display\", \"SF Pro Text\", \"SF Pro\", system-ui, sans-serif",
+      "letter": "-0.16px",
+      "line": "23.25px",
+      "size": "15px",
+      "weight": "400"
+    }
+  ],
+  "url": "https://ui8.ai/forge/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

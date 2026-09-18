@@ -1,0 +1,73 @@
+{
+  "bodyBackground": "rgba(0, 0, 0, 0)",
+  "typeSamples": [
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "HelveticaNowDisplay, -apple-system, \"system-ui\", \"avenir next\", avenir, \"segoe ui\", \"helvetica neue\", helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+      "letter": "normal",
+      "line": "31.2px",
+      "size": "26px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "HelveticaNowDisplay, -apple-system, \"system-ui\", \"avenir next\", avenir, \"segoe ui\", \"helvetica neue\", helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+      "letter": "normal",
+      "line": "31.2px",
+      "size": "26px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "HelveticaNowDisplay, -apple-system, \"system-ui\", \"avenir next\", avenir, \"segoe ui\", \"helvetica neue\", helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+      "letter": "normal",
+      "line": "31.2px",
+      "size": "26px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "HelveticaNowDisplay, -apple-system, \"system-ui\", \"avenir next\", avenir, \"segoe ui\", \"helvetica neue\", helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+      "letter": "normal",
+      "line": "31.2px",
+      "size": "26px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "HelveticaNowDisplay, -apple-system, \"system-ui\", \"avenir next\", avenir, \"segoe ui\", \"helvetica neue\", helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+      "letter": "normal",
+      "line": "31.2px",
+      "size": "26px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "HelveticaNowDisplay, -apple-system, \"system-ui\", \"avenir next\", avenir, \"segoe ui\", \"helvetica neue\", helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+      "letter": "normal",
+      "line": "31.2px",
+      "size": "26px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "LocomotiveNew, -apple-system, \"system-ui\", \"avenir next\", avenir, \"segoe ui\", \"helvetica neue\", helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif",
+      "letter": "normal",
+      "line": "77px",
+      "size": "70px",
+      "tag": "H1",
+      "weight": "400"
+    }
+  ],
+  "url": "https://locomotive.ca/en",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

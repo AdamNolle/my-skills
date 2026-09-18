@@ -1,0 +1,163 @@
+{
+  "bodyBackground": "rgb(247, 246, 240)",
+  "typeSamples": [
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "A",
+      "weight": "500"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "A",
+      "weight": "500"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "A",
+      "weight": "500"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "A",
+      "weight": "500"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "A",
+      "weight": "500"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "-2.4px",
+      "line": "100.8px",
+      "size": "120px",
+      "tag": "H1",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "22.5px",
+      "size": "15px",
+      "tag": "P",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "27.9px",
+      "size": "18px",
+      "tag": "P",
+      "weight": "300"
+    },
+    {
+      "color": "rgb(44, 24, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "27.9px",
+      "size": "18px",
+      "tag": "P",
+      "weight": "300"
+    },
+    {
+      "color": "rgb(42, 23, 14)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(42, 23, 14)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "A",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(242, 240, 235)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "18.2px",
+      "size": "13px",
+      "tag": "P",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(43, 25, 15)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "24px",
+      "size": "16px",
+      "tag": "BUTTON",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(242, 240, 235)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "20.1px",
+      "size": "13.4px",
+      "tag": "P",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(242, 240, 235)",
+      "font": "neoFormaSerif, \"neoFormaSerif Fallback\"",
+      "letter": "normal",
+      "line": "21.675px",
+      "size": "14.45px",
+      "tag": "P",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(242, 240, 235)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "21.675px",
+      "size": "14.45px",
+      "tag": "P",
+      "weight": "400"
+    },
+    {
+      "color": "rgb(242, 240, 235)",
+      "font": "neoFormaSans, \"neoFormaSans Fallback\"",
+      "letter": "normal",
+      "line": "21.675px",
+      "size": "14.45px",
+      "tag": "P",
+      "weight": "400"
+    }
+  ],
+  "url": "https://www.studioloop.com.br/work/schoolhouse",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

@@ -1,0 +1,695 @@
+{
+  "date": "2026-09-17",
+  "method": "Current-session browser captures; original image bytes retained. Visual analysis, sampled interactions, and declared computed CSS for selected pages.",
+  "limits": "No full accessibility, keyboard, real-device, performance, or source-code audit. See per-site scope.",
+  "sites": [
+    {
+      "id": "01",
+      "name": "Daylight Computer",
+      "url": "https://daylightcomputer.com/",
+      "scope": "Desktop hero and alternate lighting state. Later pinned text was not accepted as visual evidence because it was too faint at the sampled scroll position.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "01-daylight-hero.jpg",
+          "caption": "Opening composition: contextual product photography",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "01-daylight-story.jpg",
+          "caption": "Alternate screen-lighting state",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Electronic Materials Office",
+      "url": "https://electronicmaterialsoffice.com/",
+      "scope": "Desktop opening and scrolled macro-detail sequence.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "02-emo-hero.jpg",
+          "caption": "Overall product with serif title and luminous action",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "02-emo-details.jpg",
+          "caption": "Macro details and persistent purchase navigation",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Lando Norris",
+      "url": "https://landonorris.com/",
+      "scope": "Desktop portrait opening and the following identity scene.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "03-lando-hero.jpg",
+          "caption": "Portrait and helmet-ribbon opening",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "03-lando-scroll.jpg",
+          "caption": "Olive, lime, signature, and large-type identity scene",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "name": "Immersive Garden",
+      "url": "https://immersive-g.com/",
+      "scope": "Desktop loaded opening and a scroll transition into editorial copy; no complete project flow.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "04-immersive-hero.jpg",
+          "caption": "Loaded sculptural opening",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "04-immersive-scroll.jpg",
+          "caption": "Serif narrative inside the same environment",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "name": "Apple — Mac Studio",
+      "url": "https://www.apple.com/mac-studio/",
+      "scope": "Desktop opening and performance-chapter entry.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "05-apple-hero.jpg",
+          "caption": "Oversized product study and centered hierarchy",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "05-apple-highlights.jpg",
+          "caption": "White-to-black chapter transition with persistent navigation",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Zhenlong Wu",
+      "url": "https://zhenlong.design/",
+      "scope": "Desktop introduction and first project group.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "06-zhenlong-hero.jpg",
+          "caption": "Large statement and unequal first project columns",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "06-zhenlong-projects.jpg",
+          "caption": "Outside captions, metadata, and varied media scale",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "name": "Remy Shoots",
+      "url": "https://www.remyshoots.co.za/",
+      "scope": "Deep sample: desktop entry, three modes, fisheye, one project opening, mobile gallery, and mobile menu. This is the most extensively exercised gallery reference.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "07-remy-intro.jpg",
+          "caption": "Entry: sound choice and precision-mark motif",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "07-remy-slider.jpg",
+          "caption": "Slider: active color image with muted neighbors",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "07-remy-grid.jpg",
+          "caption": "Grid: collection becomes a full-field image surface",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 4,
+          "file": "07-remy-list.jpg",
+          "caption": "List: central image and distributed metadata",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 5,
+          "file": "07-remy-fisheye.jpg",
+          "caption": "Optional lens treatment enabled",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 6,
+          "file": "07-remy-project.jpg",
+          "caption": "Project detail: white field and adjacent image sequence",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 7,
+          "file": "07-remy-mobile.jpg",
+          "caption": "Phone composition: full-height portrait and lower caption",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 8,
+          "file": "07-remy-mobile-menu.jpg",
+          "caption": "Phone menu: right-aligned links over blurred content",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "name": "Raycast",
+      "url": "https://www.raycast.com/",
+      "scope": "Desktop hero, measured type samples, and a loaded product-demonstration frame.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "08-raycast-hero.jpg",
+          "caption": "Red diagonal atmosphere around a focused value proposition",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "08-raycast-demo.jpg",
+          "caption": "Concrete launcher task with selected result and detail preview",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "name": "Studio Loop",
+      "url": "https://www.studioloop.com.br/",
+      "scope": "Deep sample: desktop collage, services, editorial section, Schoolhouse case opening, phone hero, and opened phone menu.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "09-loop-hero.jpg",
+          "caption": "Diagonal material collage on brown",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "09-loop-scroll.jpg",
+          "caption": "Numbered services with purposeful serif/sans contrast",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "09-loop-editorial.jpg",
+          "caption": "Cream editorial section with orange accents",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 4,
+          "file": "09-loop-case.jpg",
+          "caption": "Calm case-study title and offset metadata",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 5,
+          "file": "09-loop-mobile.jpg",
+          "caption": "Portrait art direction",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 6,
+          "file": "09-loop-mobile-menu.jpg",
+          "caption": "Full-screen typographic mobile menu",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Nick Ho Motorsports",
+      "url": "https://nickho-motorsports.nl/",
+      "scope": "Desktop hero and following editorial statement.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "10-nickho-hero.jpg",
+          "caption": "Monochrome image, visible grid, statistics, and race number",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "10-nickho-story.jpg",
+          "caption": "White statement section with yellow emphasis",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Locomotive",
+      "url": "https://locomotive.ca/en",
+      "scope": "Deep sample: clean desktop hero, award composition, work index, Lightship case opening, phone hero, and a lower phone editorial list.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "11-locomotive-hero.jpg",
+          "caption": "Moving-image hero with serif lockup and simple navigation",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "11-locomotive-work.jpg",
+          "caption": "Isolated object and offset captions",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "11-locomotive-projects.jpg",
+          "caption": "Large serif project list with dividing rules",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 4,
+          "file": "11-locomotive-case.jpg",
+          "caption": "Lightship case: title, category, and metadata grid",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 5,
+          "file": "11-locomotive-mobile.jpg",
+          "caption": "Phone hero with wrapped lockup",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 6,
+          "file": "11-locomotive-mobile-work.jpg",
+          "caption": "Phone editorial links with persistent grid logic",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Active Theory",
+      "url": "https://activetheory.net/work",
+      "scope": "Desktop loaded spatial gallery and one scroll-driven transition.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "12-activetheory-hero.jpg",
+          "caption": "Loaded spatial collection with persistent category navigation",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "12-activetheory-scroll.jpg",
+          "caption": "Project planes change position and emphasis",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Parakeet",
+      "url": "https://parakeet.co/",
+      "scope": "Desktop introduction, app-icon gallery, client glyph boards, and phone opening.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "13-parakeet-intro.jpg",
+          "caption": "Studio identity and illustrated portraits",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "13-parakeet-app-icons.jpg",
+          "caption": "App icons: silhouette, central metaphor, and material",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "13-parakeet-glyphs.jpg",
+          "caption": "Glyph board: shared construction within a family",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 4,
+          "file": "13-parakeet-mobile.jpg",
+          "caption": "Phone adaptation with compact mark and large icons",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Adoratorio",
+      "url": "https://adoratorio.studio/",
+      "scope": "Desktop opening and beginning of the project index; deeper portfolio flow is outside the sample.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "14-adoratorio-hero.jpg",
+          "caption": "Huge lower wordmark and faint experimental texture",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "14-adoratorio-work.jpg",
+          "caption": "Transition into a compact project index",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "MONOGRID",
+      "url": "https://www.monogrid.com/en/",
+      "scope": "Desktop opening after notices and a featured-work section.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "15-monogrid-hero.jpg",
+          "caption": "Blue identity animation with stable controls",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "15-monogrid-work.jpg",
+          "caption": "Offset project grid, category tags, and lime action",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Victor Work",
+      "url": "https://victor.work/",
+      "scope": "Desktop entry, experience chooser, customization screen observation, and successful skip to the main page.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "16-victor-hero.jpg",
+          "caption": "Cream, navy, and condensed red entry",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "16-victor-main.jpg",
+          "caption": "Main portfolio after using the fast-entry option",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Weird Folders",
+      "url": "https://weirdfolders.com/",
+      "scope": "Desktop settled catalog, one enlarged icon, and a settled two-column phone catalog.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "17-weirdfolders-grid.jpg",
+          "caption": "Material collection with a common folder silhouette",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "17-weirdfolders-detail.jpg",
+          "caption": "Metal icon detail and centered information panel",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "17-weirdfolders-mobile.jpg",
+          "caption": "Phone catalog preserves object size in two columns",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Filmbot",
+      "url": "https://filmbot.com/",
+      "scope": "Desktop split hero and following editorial statement.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "18-filmbot-hero.jpg",
+          "caption": "Split composition with masked film imagery",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "18-filmbot-story.jpg",
+          "caption": "Editorial statement and offset visual proof",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Cartier — Le Chœur des Pierres",
+      "url": "https://www.cartier.com/en-fr/lechoeurdespierres",
+      "scope": "Desktop campaign entry, selection state, and one opened jewelry scene.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "19-cartier-entry.jpg",
+          "caption": "Gemstones as the campaign’s visual anchor",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "19-cartier-scene.jpg",
+          "caption": "Stone-selection state",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "19-cartier-emerald.jpg",
+          "caption": "Selected green stone becomes a jewelry environment",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Leonardo Moreira",
+      "url": "https://leonardomoreira.com.br/",
+      "scope": "Desktop boot sequence, settled desktop, and opened file-manager window.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "20-leonardo-boot.jpg",
+          "caption": "Retro boot as a deliberate entrance",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "20-leonardo-hero.jpg",
+          "caption": "Settled teal desktop and cream dock",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "20-leonardo-projects.jpg",
+          "caption": "File-manager window inside the same visual world",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "60fps — The Watch",
+      "url": "https://thewatch.60fps.fr/",
+      "scope": "Desktop loaded product stage and one scroll-driven orientation change.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "21-watch-hero.jpg",
+          "caption": "Watch, enormous type, and technical diagram",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "21-watch-scroll.jpg",
+          "caption": "Object orientation and text composition change together",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "UI8 — Forge",
+      "url": "https://ui8.ai/forge/",
+      "scope": "Desktop hero, Explore transition, measured section type, and phone opening.",
+      "steps": [
+        {
+          "step": 1,
+          "file": "22-forge-hero.jpg",
+          "caption": "Compact grid, app icon, and warm accent",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 2,
+          "file": "22-forge-features.jpg",
+          "caption": "Product screenshot and concrete explanation",
+          "width": 1280,
+          "height": 720,
+          "status": "captured and visually inspected"
+        },
+        {
+          "step": 3,
+          "file": "22-forge-mobile.jpg",
+          "caption": "Phone title/icon composition",
+          "width": 390,
+          "height": 844,
+          "status": "captured and visually inspected"
+        }
+      ]
+    }
+  ]
+}
