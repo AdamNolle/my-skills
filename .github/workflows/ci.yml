@@ -1,0 +1,30 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate skill metadata on Adlon
+    runs-on: ${{ (github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository) && fromJSON('["self-hosted","Linux","X64","personal-ci"]') || 'ubuntu-latest' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check skill files
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          files = list(Path('skills').rglob('SKILL.md'))
+          assert files, 'No SKILL.md files found'
+          for path in files:
+              lines = path.read_text(encoding='utf-8').splitlines()
+              assert lines and lines[0].startswith('name: '), f'{path}: missing name field'
+              assert len(lines) > 1 and lines[1].startswith('description: '), f'{path}: missing description field'
+              assert lines[1][len('description: '):].strip(), f'{path}: empty description'
+              assert any(line.startswith('# ') for line in lines[2:]), f'{path}: missing content heading'
+          print(f'Validated metadata in {len(files)} skill file(s)')
+          PY
