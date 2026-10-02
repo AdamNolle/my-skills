@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai · Safe refactoring
+  short_description: Make bounded changes with compatibility and rollback proof
+  default_prompt: Use $anti-ai-refactor to simplify this code within the authorized
+    scope and verify the resulting behavior.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

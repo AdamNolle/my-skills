@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai · Trust boundaries
+  short_description: Trace trust boundaries without weakening protections
+  default_prompt: Use $anti-ai-security to inspect trust boundaries and security-sensitive
+    simplifications in this change.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

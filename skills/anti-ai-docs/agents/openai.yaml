@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai · Documentation
+  short_description: Audit docs by purpose, ownership, and actual usage
+  default_prompt: Use $anti-ai-docs to review this repository’s documentation and
+    propose a safe, evidence-led cleanup.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

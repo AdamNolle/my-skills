@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai
+  short_description: Evidence-led craftsmanship and selective engineering stack
+  default_prompt: Use $anti-ai to review this code and select only the engineering
+    specialists needed for a concrete, verified improvement.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai · Contracts
+  short_description: Audit boundaries, architecture, and API contracts
+  default_prompt: Use $anti-ai-contracts to review this code’s contracts and architecture
+    before proposing changes.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

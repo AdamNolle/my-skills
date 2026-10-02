@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai · Correctness & tests
+  short_description: Prove behavior with meaningful tests and honest evidence
+  default_prompt: Use $anti-ai-tests to check this change’s correctness and strengthen
+    the smallest useful regression tests.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

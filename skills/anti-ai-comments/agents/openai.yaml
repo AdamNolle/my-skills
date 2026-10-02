@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai · Comments
+  short_description: Keep useful rationale and remove proven comment noise
+  default_prompt: Use $anti-ai-comments to audit these comments for accuracy, useful
+    rationale, and unnecessary noise.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

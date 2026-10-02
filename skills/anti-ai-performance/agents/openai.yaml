@@ -1,0 +1,14 @@
+interface:
+  display_name: anti-ai · Performance & concurrency
+  short_description: Measure bottlenecks and verify concurrency contracts
+  default_prompt: Use $anti-ai-performance to investigate this bottleneck or concurrency
+    issue with measured evidence.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
