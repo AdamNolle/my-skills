@@ -22,9 +22,14 @@ jobs:
           assert files, 'No SKILL.md files found'
           for path in files:
               lines = path.read_text(encoding='utf-8').splitlines()
-              assert lines and lines[0].startswith('name: '), f'{path}: missing name field'
-              assert len(lines) > 1 and lines[1].startswith('description: '), f'{path}: missing description field'
-              assert lines[1][len('description: '):].strip(), f'{path}: empty description'
-              assert any(line.startswith('# ') for line in lines[2:]), f'{path}: missing content heading'
+              assert lines and lines[0] == '---', f'{path}: missing YAML frontmatter'
+              end = lines.index('---', 1) if '---' in lines[1:] else 0
+              assert end, f'{path}: unclosed YAML frontmatter'
+              metadata, body = lines[1:end], lines[end + 1:]
+              assert metadata and metadata[0].startswith('name: '), f'{path}: missing name field'
+              assert metadata[0][len('name: '):].strip(), f'{path}: empty name'
+              assert len(metadata) > 1 and metadata[1].startswith('description: '), f'{path}: missing description field'
+              assert metadata[1][len('description: '):].strip(), f'{path}: empty description'
+              assert any(line.startswith('# ') for line in body), f'{path}: missing content heading'
           print(f'Validated metadata in {len(files)} skill file(s)')
           PY
