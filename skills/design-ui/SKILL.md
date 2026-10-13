@@ -1,6 +1,6 @@
 ---
 name: design-ui
-description: Design, build, or refine distinctive websites and app interfaces using Adam's visual taste, grounded in 22 studied references. Use for art direction, page composition, typography, motion, authentic product media, polished product UI, logos, favicons, and icon direction; also when asked for a beautiful, premium, or reference-inspired interface. Preserve an existing product's design system and the current brief. Do not apply to unrelated backend work or treat every interface as an immersive portfolio.
+description: Design, build, or refine distinctive websites and app interfaces using Adam's visual taste, grounded in 22 studied references and a curated inspiration and tools library. Defaults to the Instrument Serif + Archivo type pairing. Use for art direction, page composition, typography, motion, authentic product media, polished product UI, logos, favicons, and icon direction; also when asked for a beautiful, premium, or reference-inspired interface. Preserve an existing product's design system and the current brief. Do not apply to unrelated backend work or treat every interface as an immersive portfolio.
 ---
 
 # Design UI
@@ -22,6 +22,10 @@ The strongest common traits are:
 
 Do not reduce this taste to dark backgrounds, oversized headlines, gradients, or rounded cards. Several references use these; none of those treatments alone creates their quality.
 
+## House typography
+
+For new work without an established type system, use **Instrument Serif** (condensed display serif, 400 roman and italic only) for display and signature moments, and **Archivo** (variable grotesque, weight 100–900, width 62–125) for reading, interface, utility labels, and data. The character comes from the contrast: tall, narrow serif headlines against small, precisely tracked Archivo, with Archivo's width axis creating hierarchy among utility text. Never synthesize a bold Instrument Serif or set paragraphs in it. Read [typography.md](references/typography.md) for roles, sizes, OpenType features, loading, native-app use, and when to depart from the pairing. Keep an existing product's type system unless the brief asks for a change.
+
 ## Prefer authentic product evidence
 
 For a site or campaign about a specific physical product, use authentic, licensed product photography or footage as the default visual evidence when suitable media exists. Preserve the real object's proportions, finish, controls, wear, logos, and period details. Background extraction, crop, color correction, cleanup, grading, and restrained compositing may improve presentation; do not regenerate the product merely to make the source more convenient.
@@ -35,7 +39,7 @@ Read [product-media-and-brand.md](references/product-media-and-brand.md) wheneve
 1. Establish the audience, primary action, content, platform, existing system, and available assets from the request and project. Ask only for missing information that would materially change the design; otherwise state a reasonable assumption and continue.
 2. Distinguish a **brand encounter** from a **repeated task**. A cinematic entrance can suit a campaign. A dashboard needs fast orientation, information density, stable controls, and clear state changes.
 3. Read [design-directions.md](references/design-directions.md). Choose one dominant direction and, if useful, one supporting influence with a different job. Explain the choice in a short sentence. Do not blend all the references.
-4. Read the relevant entries in [site-studies.md](references/site-studies.md) and inspect their linked screenshots. Read the three emphasized references when designing an expressive portfolio or studio site. Read the icon reference when the task concerns app icons or distinctive pictograms.
+4. Read the relevant entries in [site-studies.md](references/site-studies.md) and inspect their linked screenshots. When the task needs broader references or a specific technique (launch summaries, app icons, glass, neumorphic controls, shaders, theming, exploded product views, retro styling), use the routing table in [inspiration-library.md](references/inspiration-library.md). Read the three emphasized references when designing an expressive portfolio or studio site. Read the icon reference when the task concerns app icons or distinctive pictograms.
 5. For close matching, inspect the current source at the needed viewport and state. The bundled captures document **2026-09-17**, not every version of these sites. Separate observed behavior, measured CSS, and proposed implementation. Never infer a framework, shader, timing curve, or performance score from appearance.
 
 ## Write a small design contract
@@ -45,7 +49,7 @@ Before substantial implementation, define these decisions in working notes or th
 - **Purpose:** what the visitor should understand or accomplish first.
 - **Art direction:** one sentence with subject, atmosphere, composition, and signature behavior.
 - **Reference roles:** which reference supplies layout, which supplies motion or material, and what is deliberately original.
-- **Typography:** display, reading, and utility roles; widths, scale relationships, line-height, and real font availability.
+- **Typography:** display, reading, and utility roles; widths, scale relationships, line-height, and real font availability. Default to Instrument Serif + Archivo unless an existing system or the brief says otherwise, and state any departure.
 - **Composition:** page grid, dominant anchor, image crops, section sequence, and density changes.
 - **Surface system:** palette roles, borders, radii, shadows, and icon family. Use existing tokens when working inside a product.
 - **Asset plan:** real source, licensed asset, user-provided asset, or generated asset for each critical slot. Name missing assets early.
@@ -65,7 +69,7 @@ Establish one representative screen or section at high fidelity, including a nar
 
 For apps, apply the user's taste through proportion, icon craft, typography, surface depth, and transitions between meaningful states. Keep navigation and primary tasks familiar. Do not turn operational screens into a sequence of dramatic marketing scenes.
 
-For motion-heavy work, read [motion-and-responsive.md](references/motion-and-responsive.md). For icons, read [icons.md](references/icons.md). These are implementation approaches inspired by the research, not claims about the original sites' code.
+For motion-heavy work, read [motion-and-responsive.md](references/motion-and-responsive.md). For icons, read [icons.md](references/icons.md). For type decisions, read [typography.md](references/typography.md). For glass, neumorphic, or shader materials, read the tools section of [inspiration-library.md](references/inspiration-library.md) first. These are implementation approaches inspired by the research, not claims about the original sites' code.
 
 ## Review the result as a designed object
 
@@ -78,6 +82,6 @@ Read [review.md](references/review.md) before handoff. Inspect actual rendered s
 
 ## Evidence and originality
 
-[site-studies.md](references/site-studies.md) contains the complete 22-site research, numbered capture steps, evidence scope, and transfer lessons. [The screenshot index](evidence/index.json) maps the accepted captures to their sources. Exact CSS samples are available for selected references; other numeric recipes in this skill are proposed starting points.
+[inspiration-library.md](references/inspiration-library.md) is a working library of galleries, writing, tools, and art/product references, visited 2026-10-13 without bundled captures. [site-studies.md](references/site-studies.md) contains the complete 22-site research, numbered capture steps, evidence scope, and transfer lessons. [The screenshot index](evidence/index.json) maps the accepted captures to their sources. Exact CSS samples are available for selected references; other numeric recipes in this skill are proposed starting points.
 
 Use the underlying relationships, not someone else's logos, product photography, copy, or distinctive brand assets. The bundled screenshots are research evidence, not production assets. Obtain or create appropriate assets for the user's project. Do not promise an award-winning outcome; build and verify the craft that makes a strong result possible.

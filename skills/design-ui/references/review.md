@@ -6,7 +6,7 @@ Judge the actual experience. A screenshot can establish a visual observation; it
 
 1. **Identity and task.** Can someone tell what this is and what to do? Does the visual idea belong to the content? Does the page still have character without its logo?
 2. **Composition.** Is the dominant subject clear? Do headings and image crops align intentionally? Is white space doing work? Are equal containers being used for unequal content?
-3. **Typography.** Check real font loading, line breaks, reading width, leading, numerical alignment, overflow, and hierarchy at every relevant size.
+3. **Typography.** Check real font loading, line breaks, reading width, leading, numerical alignment, overflow, and hierarchy at every relevant size. With the house pairing, confirm that Instrument Serif and Archivo actually load (not a fallback serif or sans), that the serif is never fake-bolded or used for small reading text, that changing numbers use tabular figures, and that the fallback does not reflow headlines on load.
 4. **Assets and materials.** Check resolution, crop, focal point, lighting, cutout edges, contact shadows, consistency of icon weight, and fallback media.
 5. **Interaction.** Exercise the primary action and its return path. Test menus, view switches, filters, selections, dialogs, forms, and back navigation that the scope includes. Ensure selected state persists where expected.
 6. **Responsive composition.** Inspect a narrow phone, an intermediate width, and the primary desktop size. Check landscape or large text where relevant. Avoid using a single phone screenshot as proof of full mobile support.

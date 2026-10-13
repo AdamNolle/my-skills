@@ -55,6 +55,8 @@ For exploded views:
 - Label a simplified model as “interpretive,” “diagrammatic,” or “based on public references.” Do not present it as manufacturing documentation.
 - Save the editable scene, construction script when procedural, and final renders outside transient directories. Render alpha when the page composition supplies the background.
 
+Physical references worth studying are Artovision's *Exploded 128* shadowbox (the Macintosh 128K separated along one axis, on layered acrylic) and Xreart's framed teardowns, where real components are laid out flat and labeled. Both are in [inspiration-library.md](inspiration-library.md#art-and-product-design). A flat, labeled teardown is often a clearer "what's inside" section than a 3D explosion.
+
 A still exploded view is often enough. Add a turntable or assembly animation only when motion explains order, spatial relationships, or access. Provide a reduced-motion still.
 
 ## Design logos and favicons as separate scales

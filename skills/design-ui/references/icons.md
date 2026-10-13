@@ -42,4 +42,10 @@ Rich icons work well in onboarding, an app launcher, a category gallery, or a ca
 
 Parakeet's bright gallery background demonstrates diversity between client identities; it is not a single icon family to mix into a new app. Evaluate consistency within the chosen client glyph board. Weird Folders' distressed surfaces create personality, but the deliberately tiny, quiet captions should not become the default text treatment in a productivity interface.
 
+## Further icon references
+
+- **The iOS App Icon Book** and **The macOS App Icon Book** (Michael Flarup, [flarup.shop](https://flarup.shop)) are the deepest print reference for app-icon silhouette, material, lighting, and small-size survival. The App Icon Stencil from the same shop helps sketch on the platform grid.
+- **[Conflux Icon Theme](https://github.com/MoshiurRahmanAdib/Conflux-Icon-Theme)** shows how a shared grid, palette, and lighting make hundreds of unrelated app marks "feel at home together." Use it for system-wide family consistency. It is GPL-3.0, so treat it as study material.
+- **[Recent](https://recent.design)** has an App Icons section with current work.
+
 Respect the source assets' rights. Screenshots are for research; do not extract and ship these icons without permission or the appropriate license.

@@ -83,6 +83,6 @@ Maintain native scrolling unless a specific experience justifies another model. 
 
 ## Performance follows the composition
 
-Load the critical hero asset first; defer offscreen video and heavy scenes. Provide posters and fixed media dimensions. Pause rendering for inactive or hidden scenes. Avoid multiple full-screen blur layers, unnecessarily high pixel ratios, and several competing animation loops.
+Load the critical hero asset first; defer offscreen video and heavy scenes. Provide posters and fixed media dimensions. Pause rendering for inactive or hidden scenes. Avoid multiple full-screen blur layers, unnecessarily high pixel ratios, and several competing animation loops. SVG-filter refraction (liquid glass) is cheap on the GPU in Chromium but re-rasterizes in software in Safari. Keep lenses small, clip filtered copies to the lens box, use one travelling lens rather than many, and respect `prefers-reduced-transparency` with an opaque fallback.
 
 Measure on an appropriate device or profile before claiming performance. Current Core Web Vitals guidance uses LCP, INP, and CLS; good thresholds are LCP ≤2.5s, INP ≤200ms, and CLS ≤0.1, evaluated at the 75th percentile of visits. A local lab result is not field evidence. [Web Vitals](https://web.dev/articles/vitals).

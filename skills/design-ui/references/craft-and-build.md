@@ -18,12 +18,14 @@ For an app, organize around a primary working area, supporting context, and a st
 
 Choose type by role and available license. The source font name is evidence, not a requirement to acquire it.
 
+The house default is **Instrument Serif** (display, signature) + **Archivo** (reading, interface, utility, data). See [typography.md](typography.md) for the role table, sizes, width-axis stops, OpenType features, and loading. The table below explains what each role must decide, whatever the fonts.
+
 | Role | Decisions that matter |
 |---|---|
 | Display | Character width, contrast, weight, intended line breaks, amount of negative space |
 | Reading | Comfortable measure, line-height, punctuation, small-screen legibility |
 | Utility | Stable numerals, concise labels, distinguishable states, scannability |
-| Signature | A restrained serif switch, custom mark, or expressive word used at meaningful moments |
+| Signature | A restrained serif switch, custom mark, or expressive word used at meaningful moments (by default, an Instrument Serif italic) |
 
 Observed examples at a 1280 × 720 viewport:
 
@@ -42,6 +44,8 @@ Avoid fixed line breaks that work only at one width. Use a fluid type scale, a m
 ## Color, surface, and material
 
 Assign colors to roles before choosing decorative shades: canvas, primary text, secondary text, boundary, primary action, selected state, danger, success. Brand accent and status color are separate jobs.
+
+Refractive glass, neumorphic extrusion, and shader effects are materials too. Use them when the material is the point, keep them to one or two surfaces, and keep the UI legible with the effect removed. Implementation notes and caveats are in [inspiration-library.md](inspiration-library.md#web-and-ui-design-tools).
 
 A material has a coherent lighting model. Raycast and EMO use dark fields, restrained highlights, and brighter active areas. Daylight uses environmental warmth and paper-like surfaces. Weird Folders uses surface wear, thickness, occlusion, and directional light. Arbitrary glows on every edge dilute all three approaches.
 

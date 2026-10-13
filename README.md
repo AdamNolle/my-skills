@@ -6,7 +6,7 @@ A personal collection of Codex skills for interface design and evidence-led engi
 
 | Skill | Use it for |
 | --- | --- |
-| [Design UI](skills/design-ui/SKILL.md) | Design, build, or refine distinctive websites and app interfaces using a 22-site visual research archive. |
+| [Design UI](skills/design-ui/SKILL.md) | Design, build, or refine distinctive websites and app interfaces using a 22-site visual research archive, a curated inspiration library, and an Instrument Serif + Archivo type system. |
 | [anti-ai](skills/anti-ai/SKILL.md) | Start a broad code-quality review, select the relevant specialist, or carry out explicitly requested cleanup. |
 | [anti-ai-comments](skills/anti-ai-comments/SKILL.md) | Check source comments and docstrings for accurate, useful information. |
 | [anti-ai-contracts](skills/anti-ai-contracts/SKILL.md) | Review API, state, ownership, and compatibility boundaries. |
@@ -36,7 +36,7 @@ Invoke the broad review with `$anti-ai`, a focused review with a name such as `$
 
 The anti-ai skills **audit first**. A request to review code normally produces findings and evidence without editing it. Ask for a fix or implementation when you want changes. They assess concrete engineering behavior and maintainability; style alone does not establish whether AI wrote code. Reviews stay within the requested scope and report what was inspected and verified.
 
-Design UI starts with the [core workflow](skills/design-ui/SKILL.md), then uses [design directions](skills/design-ui/references/design-directions.md), [build guidance](skills/design-ui/references/craft-and-build.md), and the [review guide](skills/design-ui/references/review.md). Its screenshots and captured data document a 22-site study from 2026-09-17. They are research evidence, not production assets or licenses to copy another creator's work.
+Design UI starts with the [core workflow](skills/design-ui/SKILL.md), then uses [design directions](skills/design-ui/references/design-directions.md), the [inspiration library](skills/design-ui/references/inspiration-library.md), [typography](skills/design-ui/references/typography.md) (Instrument Serif + Archivo), [build guidance](skills/design-ui/references/craft-and-build.md), and the [review guide](skills/design-ui/references/review.md). Its screenshots and captured data document a 22-site study from 2026-09-17; the inspiration library was visited on 2026-10-13 and has no bundled captures. They are research evidence, not production assets or licenses to copy another creator's work.
 
 ## Validation
 
